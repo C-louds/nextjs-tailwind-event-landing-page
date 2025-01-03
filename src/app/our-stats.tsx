@@ -5,21 +5,10 @@ import StatsCard from "@/components/stats-card";
 
 const STATS = [
   {
-    count: "1,500+",
+    count: "100+",
     title: "Participants",
   },
-  {
-    count: "50",
-    title: "Speakers",
-  },
-  {
-    count: "20+",
-    title: "Workshops",
-  },
-  {
-    count: "3",
-    title: "Days",
-  },
+  
 ];
 
 export function OurStats() {
@@ -39,9 +28,7 @@ export function OurStats() {
           variant="lead"
           className="mt-3 w-full !text-gray-500 lg:w-9/12"
         >
-          This three-day extravaganza brings together the brightest minds,
-          leading innovators, and top companies in the field of Artificial
-          Intelligence.
+          Join us in celebrating the achievements and memories of our high school journey. From academic excellence to unforgettable moments, our farewell party is a tribute to the hard work and dedication of all participants.
         </Typography>
       </div>
       <div>

@@ -5,16 +5,28 @@ import AboutCard from "@/components/about-card";
 
 const EVENT_INFO = [
   {
-    title: "Cutting-Edge Insights!",
+    title: "Memorable Moments!",
     description:
-      "Gain deep insights into the latest AI trends, developments, and applications that are reshaping industries worldwide. ",
-    subTitle: "Presentation",
+      "Capture and cherish the unforgettable moments with your friends and teachers as you bid farewell to high school.",
+    subTitle: "Photo Booth",
   },
   {
-    title: "Practical Knowledge!",
+    title: "Celebrate Achievements!",
     description:
-      "Attend workshops and hands-on sessions to acquire practical skills that you can apply immediately.",
-    subTitle: "Workshops",
+      "Reflect on your accomplishments and celebrate the milestones you've reached during your high school journey.",
+    subTitle: "Awards Ceremony",
+  },
+  {
+    title: "Dance the Night Away!",
+    description:
+      "Enjoy a night of dancing and fun with your friends, creating memories that will last a lifetime.",
+    subTitle: "Dance Party",
+  },
+  {
+    title: "Delicious Food!",
+    description:
+      "Savor a variety of delicious dishes and treats, making the event even more enjoyable and memorable.",
+    subTitle: "Catering",
   },
 ];
 
@@ -31,10 +43,8 @@ export function AboutEvent() {
         variant="lead"
         className="mt-2 lg:max-w-4xl mb-8 w-full text-center font-normal !text-gray-500"
       >
-        Welcome to the AI Conference 2023, where the future unfolds! Whether
-        you&apos;re a seasoned AI professional, a curious newcomer, or a
-        business leader looking to harness the power of AI, this conference is
-        designed to inspire, educate, and connect.
+        It has been 12 years maybe even more then that! And this is about time for that journey to end. Noting can win agianst Time! Nor will you, Maybe you should celebrate the end of your journey. We are making that easy for you. 
+        Learn to love yourself and reward yurself with this FAREWELL PARTY! 
       </Typography>
       <div className="mt-8 w-full grid grid-cols-1 md:grid-cols-2 gap-4 ">
         {EVENT_INFO.map((props, idx) => (
@@ -44,7 +54,7 @@ export function AboutEvent() {
           <AboutCard
             title="Networking!"
             subTitle="Community"
-            description="Connect with industry leaders, AI experts, and fellow enthusiasts to build valuable professional relationships."
+            description="Time for you to say the things you have been hiding, make the confessions. Make the memories that will last forever."
           />
         </div>
       </div>
