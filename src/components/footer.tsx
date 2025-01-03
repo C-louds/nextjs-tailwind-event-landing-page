@@ -12,7 +12,7 @@ export function Footer() {
             className="text-2xl md:text-3xl text-center font-bold "
             color="white"
           >
-            Join now and get 30% OFF!
+            The 
           </Typography>
           <Typography
             color="white"
@@ -29,7 +29,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row items-center !justify-between">
           <Typography
             as="a"
-            href="https://www.material-tailwind.com"
+            href="#"
             target="_blank"
             variant="h6"
             className="text-gray-900"
