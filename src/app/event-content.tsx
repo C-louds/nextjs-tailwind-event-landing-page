@@ -15,7 +15,7 @@ const EVENT_CONTENT = [
   pricePerHead: 500,
 },
 {
-  type: "Quintet",
+  type: "With Friends(5)",
   pricePerHead: 470,
 },
 {
@@ -34,7 +34,7 @@ export function EventContent() {
               Solo(1)
             </Tab>
             <Tab value="Quintet" className="font-medium">
-              Quintet(5)
+              With Friends(5)
             </Tab>
             <Tab value="Circle" className="font-medium">
               Circle(10)

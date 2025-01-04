@@ -22,7 +22,7 @@ export function OurStats() {
           className="text-5xl font-bold leading-tight lg:w-3/4"
           color="blue-gray"
         >
-          Conference Highlights
+          Event Highlights
         </Typography>
         <Typography
           variant="lead"

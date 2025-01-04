@@ -23,12 +23,16 @@ function Hero() {
           Join us for the most anticipated event of the year - The FAREWELL!
         </Typography>
         <div className="flex items-center gap-4">
-          <Button variant="gradient" color="white">
-            Get started
-          </Button>
-          <IconButton className="rounded-full bg-white p-6">
-            <PlayIcon className="h-4 w-4 text-gray-900" />
-          </IconButton>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSevPcuvLLjEg8K3sJkUBZfiN9xHtFcZEfi7JguunsypvXFOTw/viewform?usp=sharing"> 
+          <Button color="green" size="md">
+              buy ticket
+            </Button>
+            </a>
+            <a href="/images/res/image.png" download="eventinfo.pdf">
+            <IconButton className="rounded-full bg-black p-6">
+              <PlayIcon className="h-4 w-4 text-white-900" />
+            </IconButton>
+          </a>
         </div>
       </div>
     </div>

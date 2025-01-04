@@ -10,11 +10,12 @@ const EVENT_INFO = [
       "Capture and cherish the unforgettable moments with your friends and teachers as you bid farewell to high school.",
     subTitle: "Photo Booth",
   },
+
   {
-    title: "Celebrate Achievements!",
+    title: "Share Your Stories!",
     description:
-      "Reflect on your accomplishments and celebrate the milestones you've reached during your high school journey.",
-    subTitle: "Awards Ceremony",
+      "Take a trip down memory lane and share your favorite stories and experiences with your classmates.",
+    subTitle: "Story Sharing",
   },
   {
     title: "Dance the Night Away!",
