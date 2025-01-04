@@ -12,7 +12,7 @@ export function Footer() {
             className="text-2xl md:text-3xl text-center font-bold "
             color="white"
           >
-            The 
+            Once it&apos;s gone, it will be gone forever. Buy The Tickets NOW!
           </Typography>
           <Typography
             color="white"
@@ -21,9 +21,11 @@ export function Footer() {
             Don&apos;t miss out on this exclusive offer that will end soon.
           </Typography>
           <div className="flex w-full md:w-fit gap-3 mt-2 flex-col md:flex-row">
-            <Button color="white" size="md">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSevPcuvLLjEg8K3sJkUBZfiN9xHtFcZEfi7JguunsypvXFOTw/viewform?usp=sharing"> 
+          <Button color="white" size="md">
               buy ticket
             </Button>
+            </a>
           </div>
         </div>
         <div className="flex flex-col md:flex-row items-center !justify-between">
