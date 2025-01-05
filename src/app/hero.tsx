@@ -28,7 +28,7 @@ function Hero() {
               buy ticket
             </Button>
             </a>
-            <a href="/images/res/FarewellInfo.pdf" download="EventInfo.pdf">
+            <a href="/images/res/FarewellInfo.pdf" download="FarewellInfo.pdf">
             <IconButton className="rounded-full bg-black p-6">
               <PlayIcon className="h-4 w-4 text-white-900" />
             </IconButton>
