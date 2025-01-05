@@ -14,8 +14,7 @@ interface AboutCardProp {
 export function AboutCard({ title, description, subTitle }: AboutCardProp) {
   return (
     <Card shadow={false}>
-      <CardBody className="h-[453px] p-5 flex flex-col justify-center items-center rounded-2xl bg-gradient-to-r from-gray-800 via-gray-900 to-black
-       ">
+      <CardBody className="h-[453px] p-5 flex flex-col justify-center items-center rounded-2xl bg-gradient-to-r from-blue-200 to-cyan-200">
         <Typography variant="h6" className="mb-4 text-center" color="white">
           {subTitle}
         </Typography>
