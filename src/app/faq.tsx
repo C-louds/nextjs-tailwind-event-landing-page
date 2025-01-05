@@ -6,7 +6,7 @@ import { Typography, Accordion, AccordionHeader, AccordionBody } from "@material
 const FAQS = [
   {
     title: "1. When is the farewell party scheduled?",
-    desc: "The farewell party is scheduled for June 25th, 2025, starting at 5:45 PM in the Resort.",
+    desc: "The farewell party is scheduled for March 27th, 2025, starting at 5:45 PM in the Resort.",
   },
   {
     title: "2. What is the dress code for the farewell party?",
