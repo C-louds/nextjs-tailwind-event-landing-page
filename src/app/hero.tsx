@@ -28,7 +28,7 @@ function Hero() {
               buy ticket
             </Button>
             </a>
-            <a href="/images/res/FarewellInfo.pdf" download>
+            <a href="https://drive.google.com/uc?export=download&id=1hsGdwVeKytEPYxK9PV4aOUHttUIf34i-">
             <IconButton className="rounded-full bg-black p-6">
               <PlayIcon className="h-4 w-4 text-white-900" />
             </IconButton>
